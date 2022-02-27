@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="g7cBlS" name="Harmoni" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              pluginCharacteristicsValue="pluginIsMidiEffectPlugin,pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
+              pluginManufacturer="Akkabakka" cppLanguageStandard="17" defines="JUCE_MODAL_LOOPS_PERMITTED=1">
+  <MAINGROUP id="Yak8OR" name="Harmoni">
+    <GROUP id="{DDA440F6-0651-1A38-E630-2DB67E6503BE}" name="Source">
+      <FILE id="skS7dP" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="xCmJMP" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="BGQ0U4" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="zLfKPq" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="YlklLg" name="PianoRollComponent.cpp" compile="1" resource="0"
+            file="Source/PianoRollComponent.cpp"/>
+      <FILE id="gW145d" name="PianoRollComponent.h" compile="0" resource="0"
+            file="Source/PianoRollComponent.h"/>
+      <FILE id="aNVNro" name="KeyboardComponent.cpp" compile="1" resource="0"
+            file="Source/KeyboardComponent.cpp"/>
+      <FILE id="cRalT1" name="KeyboardComponent.h" compile="0" resource="0"
+            file="Source/KeyboardComponent.h"/>
+      <FILE id="XJnT2L" name="NavbarComponent.cpp" compile="1" resource="0"
+            file="Source/NavbarComponent.cpp"/>
+      <FILE id="c1iN2O" name="NavbarComponent.h" compile="0" resource="0"
+            file="Source/NavbarComponent.h"/>
+      <FILE id="rPfvi0" name="BlockGridControlPanel.cpp" compile="1" resource="0"
+            file="Source/BlockGridControlPanel.cpp"/>
+      <FILE id="UmVp82" name="BlockGridControlPanel.h" compile="0" resource="0"
+            file="Source/BlockGridControlPanel.h"/>
+      <FILE id="BNrmmz" name="BlockGridStyleSheet.cpp" compile="1" resource="0"
+            file="Source/BlockGridStyleSheet.cpp"/>
+      <FILE id="JR8AYG" name="BlockGridStyleSheet.h" compile="0" resource="0"
+            file="Source/BlockGridStyleSheet.h"/>
+      <FILE id="ihD9GF" name="BlockGridComponent.cpp" compile="1" resource="0"
+            file="Source/BlockGridComponent.cpp"/>
+      <FILE id="BeTGWQ" name="BlockGridComponent.h" compile="0" resource="0"
+            file="Source/BlockGridComponent.h"/>
+      <FILE id="pt2Jpc" name="KeyNoteComponent.cpp" compile="1" resource="0"
+            file="Source/KeyNoteComponent.cpp"/>
+      <FILE id="isJ9y6" name="KeyNoteComponent.h" compile="0" resource="0"
+            file="Source/KeyNoteComponent.h"/>
+      <FILE id="wYpgzR" name="NoteMessage.cpp" compile="1" resource="0" file="Source/NoteMessage.cpp"/>
+      <FILE id="ZauLXD" name="NoteMessage.h" compile="0" resource="0" file="Source/NoteMessage.h"/>
+      <FILE id="NZLyEf" name="PConstants.h" compile="0" resource="0" file="Source/PConstants.h"/>
+      <FILE id="QYXZvI" name="MenuComponent.cpp" compile="1" resource="0"
+            file="Source/MenuComponent.cpp"/>
+      <FILE id="ky0bDU" name="MenuComponent.h" compile="0" resource="0" file="Source/MenuComponent.h"/>
+      <FILE id="XvlLLt" name="MIDIEvents.h" compile="0" resource="0" file="Source/MIDIEvents.h"/>
+      <FILE id="Qrx89v" name="MIDIExportDrag.cpp" compile="1" resource="0"
+            file="Source/MIDIExportDrag.cpp"/>
+      <FILE id="h0WWcR" name="MIDIExportDrag.h" compile="0" resource="0"
+            file="Source/MIDIExportDrag.h"/>
+    </GROUP>
+    <GROUP id="{2FC45200-9E26-79B5-7AF8-5DE92CB90250}" name="Img">
+      <FILE id="RUY9Z8" name="midiExportIcon.png" compile="0" resource="1"
+            file="Img/midiExportIcon.png"/>
+    </GROUP>
+    <GROUP id="{D396E8E4-145C-6769-C3B9-22762FFEEEBE}" name="Maximilan">
+      <GROUP id="{307D6FAC-1CE2-218F-4521-7090C1BE6061}" name="libs">
+        <GROUP id="{E83F7E03-4B52-D94E-C45A-EB58960592E2}" name="PolyBLEP">
+          <FILE id="cyZnh3" name="PolyBLEP.cpp" compile="1" resource="0" file="Maximilan/libs/PolyBLEP/PolyBLEP.cpp"/>
+          <FILE id="M2lUFH" name="PolyBLEP.h" compile="0" resource="0" file="Maximilan/libs/PolyBLEP/PolyBLEP.h"/>
+          <FILE id="BEhc7g" name="README.md" compile="0" resource="1" file="Maximilan/libs/PolyBLEP/README.md"/>
+        </GROUP>
+        <FILE id="ArnAQp" name="fft.cpp" compile="1" resource="0" file="Maximilan/libs/fft.cpp"/>
+        <FILE id="sO5fqc" name="fft.h" compile="0" resource="0" file="Maximilan/libs/fft.h"/>
+        <FILE id="Oz3pKg" name="maxiAtoms.cpp" compile="1" resource="0" file="Maximilan/libs/maxiAtoms.cpp"/>
+        <FILE id="d9CqvT" name="maxiAtoms.h" compile="0" resource="0" file="Maximilan/libs/maxiAtoms.h"/>
+        <FILE id="bOCOPX" name="maxiBark.cpp" compile="1" resource="0" file="Maximilan/libs/maxiBark.cpp"/>
+        <FILE id="ev7bqX" name="maxiBark.h" compile="0" resource="0" file="Maximilan/libs/maxiBark.h"/>
+        <FILE id="PRc4wH" name="maxiClock.cpp" compile="1" resource="0" file="Maximilan/libs/maxiClock.cpp"/>
+        <FILE id="ze5E04" name="maxiClock.h" compile="0" resource="0" file="Maximilan/libs/maxiClock.h"/>
+        <FILE id="UL0rOY" name="maxiFFT.cpp" compile="1" resource="0" file="Maximilan/libs/maxiFFT.cpp"/>
+        <FILE id="Q1IFM0" name="maxiFFT.h" compile="0" resource="0" file="Maximilan/libs/maxiFFT.h"/>
+        <FILE id="HTGVig" name="maxiGrains.cpp" compile="1" resource="0" file="Maximilan/libs/maxiGrains.cpp"/>
+        <FILE id="vY5Z7i" name="maxiGrains.h" compile="0" resource="0" file="Maximilan/libs/maxiGrains.h"/>
+        <FILE id="DC1CKl" name="maxim.h" compile="0" resource="0" file="Maximilan/libs/maxim.h"/>
+        <FILE id="S8TmHJ" name="maxiMFCC.cpp" compile="1" resource="0" file="Maximilan/libs/maxiMFCC.cpp"/>
+        <FILE id="wQ0XXM" name="maxiMFCC.h" compile="0" resource="0" file="Maximilan/libs/maxiMFCC.h"/>
+        <FILE id="npEvxQ" name="maxiPolyBLEP.h" compile="0" resource="0" file="Maximilan/libs/maxiPolyBLEP.h"/>
+        <FILE id="eExSOO" name="maxiReverb.cpp" compile="1" resource="0" file="Maximilan/libs/maxiReverb.cpp"/>
+        <FILE id="vNCEEv" name="maxiReverb.h" compile="0" resource="0" file="Maximilan/libs/maxiReverb.h"/>
+        <FILE id="duHzB1" name="sineTable.h" compile="0" resource="0" file="Maximilan/libs/sineTable.h"/>
+        <FILE id="zGUZOA" name="stb_vorbis.c" compile="1" resource="0" file="Maximilan/libs/stb_vorbis.c"/>
+        <FILE id="NwzmEs" name="stb_vorbis.h" compile="0" resource="0" file="Maximilan/libs/stb_vorbis.h"/>
+      </GROUP>
+      <FILE id="EV4bBn" name="maximilian.cpp" compile="1" resource="0" file="Maximilan/maximilian.cpp"/>
+      <FILE id="FyJyJV" name="maximilian.h" compile="0" resource="0" file="Maximilan/maximilian.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Harmoni" headerPath="/Users/axelborgmo/NYU/Thesis/Harmoni/Harmoni/Maximilan"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Harmoni"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>
