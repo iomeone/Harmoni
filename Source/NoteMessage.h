@@ -150,7 +150,7 @@ enum class ChordTypes : char
 
 
 
-// taken from https://stackoverflow.com/questions/20511347/a-good-hash-function-for-a-vector
+//hash function taken from https://stackoverflow.com/questions/20511347/a-good-hash-function-for-a-vector
 struct VectorHasher {
     std::size_t operator() (const std::vector<int> &v) const
     {
