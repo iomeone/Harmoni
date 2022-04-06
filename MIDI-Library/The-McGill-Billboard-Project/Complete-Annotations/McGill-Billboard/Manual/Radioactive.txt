@@ -1,0 +1,25 @@
+# title: Radioactive
+# artist: Imagine Dragons
+# metre: 4/4
+# tonic: D
+
+
+
+| B:min | D:maj | A:maj | E:maj |,
+| B:min | D:maj | A:maj | E:maj |
+| B:min | D:maj | A:maj | E:maj |
+| B:min | D:maj | A:maj | E:maj |
+| B:min | D:maj | A:maj | E:maj |
+| B:min | D:maj | A:maj | E:maj |
+| B:min | D:maj | A:maj | E:maj |
+
+
+
+
+
+
+
+
+
+
+

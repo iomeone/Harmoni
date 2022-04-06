@@ -1,0 +1,35 @@
+# title: Sugar
+# artist: Maroon 5
+# metre: 4/4
+# tonic: C
+
+
+
+| F:maj | A:min | D:min | C:maj |,
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+| F:maj | A:min | D:min | C:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

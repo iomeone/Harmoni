@@ -1,0 +1,35 @@
+# title: I will survive
+# artist: Gloria Gaynor
+# metre: 4/4
+# tonic: C
+
+
+
+| A:min | D:min | G:maj | C:maj |,
+| F:min | B:min7b5 | E:sus4 | E:maj |, 
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+| A:min | D:min | G:maj | C:maj |
+| F:min | B:min7b5 | E:sus4 | E:maj |
+
+

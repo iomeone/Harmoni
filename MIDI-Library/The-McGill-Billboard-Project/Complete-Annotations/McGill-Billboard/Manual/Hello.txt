@@ -1,0 +1,30 @@
+# title: Hello
+# artist: Adele
+# metre: 4/4
+# tonic: Ab
+
+
+
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |,
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+| F:min | Ab:maj/5 | Eb:maj | Db:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

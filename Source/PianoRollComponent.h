@@ -17,6 +17,7 @@
 #include "BlockGridControlPanel.h"
 #include "NavbarComponent.h"
 #include "KeyboardComponent.h"
+#include "ChordLibrary.h"
 
 
 class ScrollDrag : public juce::Viewport // A Viewport is used to contain a larger child component, and allows the child to be automatically scrolled around.
@@ -177,8 +178,13 @@ public:
     enum MenuIDs {
         midiImport = 1000,
         midiExport,
+        getChord,
         similarSongs,
-        SliderMax
+        song1,
+        song2,
+        song3,
+        song4,
+        song5
     };
     
         
@@ -222,6 +228,11 @@ private:
     
 //    chordDisplay
     juce::TextEditor chordDisplay;
+    
+    
+//    ChordLibrary
+    ChordLibrary chordLibrary;
+    
     
     void logMessage (const juce::String& m)
     {

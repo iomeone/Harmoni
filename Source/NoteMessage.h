@@ -237,30 +237,40 @@ const std::unordered_map<std::vector<int>, ChordTypes, VectorHasher> chordNumbMa
 
 
 
-
-class PRESequence { //Piano Roll Editor Sequence
+class PRESequence
+{
 public:
+    PRESequence() {}
+
+    ~PRESequence() {}
     std::vector<NoteMessage> events;
     std::vector<int> intervals;
     std::vector<int> noteNumbers;
+    std::vector<int> quarter;
     int tsLow;
     int tsHight;
     
     int lowNote;
     int highNote;
     String bassNote;
-    
-    
-
-    
-    
+        
 
     File exportMIDI();
     String getNoteName(int intNote);
+    
     String getChordSymbol();
+    String getChordSymbolAlt(std::vector<int> oneChord);
+//    String searchChordLib();
+//    String readFile(const juce::File& fileToRead);
+    String searchSimilarSongs();
+    
+private:
+//    chordLibrary library;
+    
 //    String findChordMatch();
 
     
 };
+
     
     

@@ -1,0 +1,23 @@
+# title: Shape of you
+# artist: Ed Sheeran
+# metre: 4/4
+# tonic: E
+
+
+
+| Db:min | Gb:min | A:maj | B:maj |,
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+| Db:min | Gb:min | A:maj | B:maj |
+
+
+

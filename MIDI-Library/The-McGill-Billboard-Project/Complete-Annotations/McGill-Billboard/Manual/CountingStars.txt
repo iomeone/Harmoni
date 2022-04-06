@@ -1,0 +1,27 @@
+# title: Counting Stars
+# artist: OneRepublic
+# metre: 4/4
+# tonic: E
+
+
+
+| C:min | E:maj | B:maj | A:maj |,
+| C:min | E:maj | B:maj | A:maj |
+| C:min | E:maj | B:maj | A:maj |
+| C:min | E:maj | B:maj | A:maj |
+| C:min | E:maj | B:maj | A:maj |
+| C:min | E:maj | B:maj | A:maj |
+| C:min | E:maj | B:maj | A:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+

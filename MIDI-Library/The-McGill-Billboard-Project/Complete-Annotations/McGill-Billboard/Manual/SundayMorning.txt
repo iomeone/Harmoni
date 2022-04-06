@@ -1,0 +1,36 @@
+# title: Sunday Morning
+# artist: Maroon 5
+# metre: 4/4
+# tonic: C
+
+
+
+| D:min | G:maj | C:maj | C:maj |,
+| D:min | G:maj | C:maj | C:maj |, 
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |, voice)
+| D:min | G:maj | C:maj | C:maj |, 
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |, (voice
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |
+| D:min | G:maj | C:maj | C:maj |, voice)
+| D:min | G:maj | C:maj | C:maj |, 
+
+268.62371882	silence
+272.538503401	end

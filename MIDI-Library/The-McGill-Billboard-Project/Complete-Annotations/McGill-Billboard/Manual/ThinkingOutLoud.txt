@@ -1,0 +1,29 @@
+# title: Thinking out loud
+# artist: Ed Sheeran
+# metre: 4/4
+# tonic: D
+
+
+
+| D:maj | D:maj/3 | G:maj | A:maj |,
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+| D:maj | D:maj/3 | G:maj | A:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+

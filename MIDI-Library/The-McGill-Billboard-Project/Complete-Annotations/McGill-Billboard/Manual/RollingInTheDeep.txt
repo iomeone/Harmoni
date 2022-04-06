@@ -1,0 +1,28 @@
+# title: Rolling in the deep
+# artist: Adele
+# metre: 4/4
+# tonic: Eb
+
+
+
+| C:min | G:min | Bb:maj | G:min |,
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+| C:min | G:min | Bb:maj | G:min |
+(chorus) | C:min | Bb:maj | Ab:maj | Bb:min |
+| C:min | Bb:maj | Ab:maj | Bb:min |
+| C:min | Bb:maj | Ab:maj | Bb:min |
+| C:min | Bb:maj | Ab:maj | Bb:min |
+| C:min | Bb:maj | Ab:maj | Bb:min |
+| C:min | Bb:maj | Ab:maj | Bb:min |
+
+
+
+
+
+
+

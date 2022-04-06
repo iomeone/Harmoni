@@ -1,0 +1,37 @@
+# title: Stay with me
+# artist: Sam Smith
+# metre: 4/4
+# tonic: C
+
+
+
+| A:min | F:maj | C:maj | C:maj |,
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+| A:min | F:maj | C:maj | C:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

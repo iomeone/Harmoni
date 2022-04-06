@@ -1,0 +1,35 @@
+# title: Like a rolling stone
+# artist: Bob dylan
+# metre: 4/4
+# tonic: C
+
+
+
+| C:maj | D:min | E:min | F:maj |,
+| G:maj | G:maj | G:maj | G:maj |
+| C:maj | D:min | E:min | F:maj |
+| G:maj | G:maj | G:maj | G:maj |
+| F:maj | G:maj | F:maj | G:maj |
+| F:maj | E:min | D:min | C:maj |
+| F:maj | E:min | D:min | C:maj |
+| C:maj | F:min | G:maj | G:maj |
+| C:maj | F:min | G:maj | G:maj |
+| C:maj | F:min | G:maj | G:maj |
+| C:maj | F:min | G:maj | G:maj |
+| C:maj | F:min | G:maj | G:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

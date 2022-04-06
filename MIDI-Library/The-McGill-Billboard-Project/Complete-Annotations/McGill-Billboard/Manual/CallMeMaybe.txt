@@ -1,0 +1,23 @@
+# title: Call me maybe
+# artist: Carly Rae Jepsen
+# metre: 4/4
+# tonic: G
+
+
+
+| G:maj | E:min | C:maj | D:maj |,
+| G:maj | E:min | C:maj | D:maj |
+| G:maj | E:min | C:maj | D:maj |
+| G:maj | E:min | C:maj | D:maj |
+(chorus) | G:maj | D:maj | C:maj | D:maj |
+| G:maj | D:maj | C:maj | D:maj |
+| G:maj | D:maj | C:maj | D:maj |
+| G:maj | D:maj | C:maj | D:maj |
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+# title: All of me
+# artist: John Legend
+# metre: 4/4
+# tonic: Eb
+
+
+
+| F:min | Db:maj | Ab:maj | Eb:maj |,
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+| F:min | Db:maj | Ab:maj | Eb:maj |
+
+
+
+
+
+
+
+
+
+
+

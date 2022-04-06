@@ -1,0 +1,29 @@
+# title: What do you mean
+# artist: Justin Bieber
+# metre: 4/4
+# tonic: Db
+
+
+
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |,
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+| Db:maj | Ab:maj F:min | Eb:maj | Db:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+

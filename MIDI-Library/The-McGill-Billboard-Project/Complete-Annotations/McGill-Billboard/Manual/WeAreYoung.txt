@@ -1,0 +1,26 @@
+# title: We are young
+# artist: Fun.
+# metre: 4/4
+# tonic: F
+
+
+
+| F:maj | D:min | Bb:maj | F:maj |,
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+| F:maj | D:min | Bb:maj | F:maj |
+
+
+
+
+
+
+
+
+
+

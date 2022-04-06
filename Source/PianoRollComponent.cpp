@@ -45,6 +45,9 @@ PianoRollComponent::PianoRollComponent() :  noteGrid(gridStyle),
     //-- chord display
     addAndMakeVisible (chordDisplay);
     
+    //--- chord library display
+    addAndMakeVisible(chordLibrary);
+    
     //once the piano roll component is scrolled then it updates the others manually
     scrollGrid.positionMoved = [this](int x, int y)
     {
@@ -109,7 +112,7 @@ void PianoRollComponent::paint (juce::Graphics& g)
 void PianoRollComponent::resized()
 {
 //    scrollGrid
-    scrollGrid.setBounds(80, 50 + 35, getWidth()-90, controlPanel.isVisible() ? getHeight()-180 : getHeight() - 55);
+    scrollGrid.setBounds(80, 50 + 35, getWidth()-90-400, controlPanel.isVisible() ? getHeight()-180 : getHeight() - 55);
     scrollNavbar.setBounds(scrollGrid.getX(), 5 + 35, scrollGrid.getWidth()-10, scrollGrid.getY() - 5);
     scrollKeyboard.setBounds(5, scrollGrid.getY(), 70, scrollGrid.getHeight()- 10);
     
@@ -125,12 +128,15 @@ void PianoRollComponent::resized()
     keyboardComp.setBounds(0, 0 + 35, scrollKeyboard.getWidth(), noteGrid.getHeight());
     
 //    controlPanel
-    controlPanel.setBounds(5, scrollGrid.getBottom() + 5, getWidth() - 10, 140 - 35);
+    controlPanel.setBounds(5, scrollGrid.getBottom() + 5, getWidth() - 10 - 400, 140 - 35);
     
 //  menu
-    menuBar.setBounds(0,0, getWidth(), 20 + 20);
-    label.setBounds(10, 30, getWidth() - 20, 20);
-    slider.setBounds(10,60, getWidth() - 20, 20);
+    menuBar.setBounds(0,0, scrollGrid.getWidth(), 20 + 20);
+    label.setBounds(10, 30, getWidth() - 20 - 400, 20);
+    slider.setBounds(10,60, getWidth() - 20 - 400, 20);
+    
+//    chord library
+    chordLibrary.setBounds(1000, 0, 400, 800);
     
     
 //    MIDI out
@@ -139,7 +145,7 @@ void PianoRollComponent::resized()
     
 //    chordDisplay
 //    auto quarterWidth = getWidth() / 4;
-    chordDisplay.setBounds(getWidth() - 210, 0, 210, 40);
+    chordDisplay.setBounds(getWidth() - 820, 0, 400, 40);
 //    chordDisplay.setBounds(getLocalBounds().withWidth(quarterWidth), <#int y#>, <#int width#>, <#int height#>)
 //    chordDisplay.setBounds (getLocalBounds().withWidth (quarterWidth).withX (quarterWidth).reduced (10));
 
@@ -150,7 +156,7 @@ void PianoRollComponent::resized()
 
 //    menu
 StringArray PianoRollComponent::getMenuBarNames() {
-    const char* menuNames[] = { "File", "Chord Analysis", 0 };
+    const char* menuNames[] = { "File", "Chord Analysis", "Similar songs", 0 }; // "List of songs",
     
     return StringArray (menuNames);
 }
@@ -168,7 +174,18 @@ PopupMenu PianoRollComponent::getMenuForIndex(int index, const String &name) {
     else if (name =="Chord Analysis")
     {
         menu.addItem(similarSongs, "Find Similar Songs");
+        menu.addItem(getChord, "Get Chord");
     }
+    else if (name == "Similar songs")
+    {
+        menu.addItem(song1, "Song 1");
+        menu.addItem(song2, "Song 2");
+        menu.addItem(song3, "Song 3");
+        menu.addItem(song4, "Song 4");
+        menu.addItem(song5, "Song 5");
+    }
+    
+
 
     return menu;
 }
@@ -192,17 +209,80 @@ void PianoRollComponent::menuItemSelected(int menuID, int index)
             
         case similarSongs: {
             seq = getSequence();
+//            seq.searchSimilarSongs();
+            String _chordProg = seq.searchSimilarSongs();
+//            DBG("Chord prog is: " << _chordProg);
+            logMessage(_chordProg);
+            chordLibrary.searchChordLibrary(_chordProg);
+//            chordLibrary.displayTopSongs(1);
+//            seq.searchChordLib();
+//            String chord_ = seq.searchSimilarSongs();
+//            logMessage(chord_);
+        
+            break; }
+            
+        case getChord: {
+            seq = getSequence();
 //            seq.getChords();
+            
+            
             String chord_ = seq.getChordSymbol();
             logMessage(chord_);
             DBG("Chord_ is: " << chord_);
-            break; }
-            
-        case SliderMax: {
-            slider.setValue(slider.getMaximum());
+//            seq.
+//            slider.setValue(slider.getMaximum());
             break;
+        }
         
-        
+        case song1: {
+//            seq = getSequence();
+////            seq.searchSimilarSongs();
+//            String _chordProg = seq.searchSimilarSongs();
+////            DBG("Chord prog is: " << _chordProg);
+//            logMessage(_chordProg);
+//            chordLibrary.searchChordLibrary(_chordProg);
+            chordLibrary.displayTopSongs(0);
+            break;
+        }
+        case song2: {
+//            seq = getSequence();
+////            seq.searchSimilarSongs();
+//            String _chordProg = seq.searchSimilarSongs();
+////            DBG("Chord prog is: " << _chordProg);
+//            logMessage(_chordProg);
+//            chordLibrary.searchChordLibrary(_chordProg);
+            chordLibrary.displayTopSongs(1);
+            break;
+        }
+        case song3: {
+//            seq = getSequence();
+////            seq.searchSimilarSongs();
+//            String _chordProg = seq.searchSimilarSongs();
+////            DBG("Chord prog is: " << _chordProg);
+//            logMessage(_chordProg);
+//            chordLibrary.searchChordLibrary(_chordProg);
+            chordLibrary.displayTopSongs(2);
+            break;
+        }
+        case song4: {
+//            seq = getSequence();
+////            seq.searchSimilarSongs();
+//            String _chordProg = seq.searchSimilarSongs();
+////            DBG("Chord prog is: " << _chordProg);
+//            logMessage(_chordProg);
+//            chordLibrary.searchChordLibrary(_chordProg);
+            chordLibrary.displayTopSongs(3);
+            break;
+        }
+        case song5: {
+//            seq = getSequence();
+////            seq.searchSimilarSongs();
+//            String _chordProg = seq.searchSimilarSongs();
+////            DBG("Chord prog is: " << _chordProg);
+//            logMessage(_chordProg);
+//            chordLibrary.searchChordLibrary(_chordProg);
+            chordLibrary.displayTopSongs(4);
+            break;
         }
     }
 }

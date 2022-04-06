@@ -1,0 +1,27 @@
+# title: Easy on me
+# artist: Adele
+# metre: 4/4
+# tonic: F
+
+
+
+| F:maj | D:min | A:min | Bb:maj |,
+| F:maj | D:min | A:min | Bb:maj |
+| F:maj | D:min | C:maj | C:maj |
+| A:min | G:min | F:min | Bb:maj |
+| F:maj | D:min | C:maj | C:maj |
+| A:min | G:min | F:min | Bb:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+

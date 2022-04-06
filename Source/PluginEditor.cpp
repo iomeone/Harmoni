@@ -19,7 +19,7 @@
 HarmoniAudioProcessorEditor::HarmoniAudioProcessorEditor (HarmoniAudioProcessor& p)
     : AudioProcessorEditor (&p), audioProcessor (p)
 {
-    setSize (800, 800);
+    setSize (1400, 800);
     addAndMakeVisible(rollComponent);
     rollComponent.setup(10, 900, 20); //default 10 bars, with 900 pixels per bar (width) and 20 pixels per step (each note height)
     rollComponent.sendChange = [](int note, int velocity) // Gets called every time a note is inserted or edited.
@@ -59,6 +59,7 @@ void HarmoniAudioProcessorEditor::resized()
 {
     
     rollComponent.setBounds(getLocalBounds());
+    
     // This is generally where you'll want to lay out the positions of any
     // subcomponents in your editor..
 }

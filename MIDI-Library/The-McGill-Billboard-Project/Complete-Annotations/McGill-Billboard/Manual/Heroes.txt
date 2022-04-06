@@ -1,0 +1,34 @@
+# title: Heroes
+# artist: David Bowie
+# metre: 4/4
+# tonic: D
+
+
+
+| D:maj | D:maj | G:maj | G:maj |,
+| D:maj | D:maj | G:maj | G:maj |
+| C:maj | C:maj | D:maj | D:maj |
+| A:min | E:min | D:maj | D:maj |
+| C:maj | G:maj | D:maj | D:maj |
+
+| D:maj | D:maj | G:maj | G:maj |
+| D:maj | D:maj | G:maj | G:maj |
+| C:maj | C:maj | D:maj | D:maj |
+| A:min | E:min | D:maj | D:maj |
+| C:maj | G:maj | D:maj | D:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

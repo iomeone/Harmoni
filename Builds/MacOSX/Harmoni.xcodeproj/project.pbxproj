@@ -71,9 +71,11 @@
 		E29CFB287508C07E37475AC0 /* PluginProcessor.cpp */ = {isa = PBXBuildFile; fileRef = AD71A824ABFFD88E6A2AD039; };
 		E2A9039B5C5452F2CE8DC461 /* CoreAudioKit.framework */ = {isa = PBXBuildFile; fileRef = EDCF4D54C40519516DA12486; };
 		EDC6AB37807904FF1C0DC3B9 /* IOKit.framework */ = {isa = PBXBuildFile; fileRef = 447FE97D0397E72651E3F7F2; };
+		F93C4639304190B3E91C7E08 /* ChordLibrary.cpp */ = {isa = PBXBuildFile; fileRef = 0B852E65FA854FC278431029; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B852E65FA854FC278431029 /* ChordLibrary.cpp */ /* ChordLibrary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ChordLibrary.cpp; path = ../../Source/ChordLibrary.cpp; sourceTree = SOURCE_ROOT; };
 		0C3D80846B6D75C95B1FC770 /* juce_audio_basics */ /* juce_audio_basics */ = {isa = PBXFileReference; lastKnownFileType = folder; name = juce_audio_basics; path = /Users/axelborgmo/JUCE/modules/juce_audio_basics; sourceTree = "<absolute>"; };
 		0C8BA370672452E87CF0EA4C /* include_juce_audio_plugin_client_AU.r */ /* include_juce_audio_plugin_client_AU.r */ = {isa = PBXFileReference; lastKnownFileType = file.r; name = include_juce_audio_plugin_client_AU.r; path = ../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r; sourceTree = SOURCE_ROOT; };
 		10C64A9FCEB6BDCE8CB589FC /* PluginEditor.cpp */ /* PluginEditor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = PluginEditor.cpp; path = ../../Source/PluginEditor.cpp; sourceTree = SOURCE_ROOT; };
@@ -102,6 +104,7 @@
 		6A6073E18BABB7AF1CAC05CB /* include_juce_audio_plugin_client_utils.cpp */ /* include_juce_audio_plugin_client_utils.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = include_juce_audio_plugin_client_utils.cpp; path = ../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp; sourceTree = SOURCE_ROOT; };
 		702D6ECE22036D54521D1365 /* Info-VST3.plist */ /* Info-VST3.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info-VST3.plist"; path = "Info-VST3.plist"; sourceTree = SOURCE_ROOT; };
 		7055E0719AA00FA815E70E4B /* KeyboardComponent.cpp */ /* KeyboardComponent.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = KeyboardComponent.cpp; path = ../../Source/KeyboardComponent.cpp; sourceTree = SOURCE_ROOT; };
+		7107C8F07DBBFC2B208669C9 /* ChordLibrary.h */ /* ChordLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ChordLibrary.h; path = ../../Source/ChordLibrary.h; sourceTree = SOURCE_ROOT; };
 		768AAC47B6FFE1595D45B83E /* Info-Standalone_Plugin.plist */ /* Info-Standalone_Plugin.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info-Standalone_Plugin.plist"; path = "Info-Standalone_Plugin.plist"; sourceTree = SOURCE_ROOT; };
 		782D47155C5243EE526CA13D /* juce_audio_utils */ /* juce_audio_utils */ = {isa = PBXFileReference; lastKnownFileType = folder; name = juce_audio_utils; path = /Users/axelborgmo/JUCE/modules/juce_audio_utils; sourceTree = "<absolute>"; };
 		823F2445C39AE0ECF2F5EC9F /* PConstants.h */ /* PConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PConstants.h; path = ../../Source/PConstants.h; sourceTree = SOURCE_ROOT; };
@@ -325,6 +328,8 @@
 				E11BC10BAE0291FC3CC55164,
 				DA2F1B199EB762AC119B7931,
 				AE5D0763A17125318760AF36,
+				0B852E65FA854FC278431029,
+				7107C8F07DBBFC2B208669C9,
 				7055E0719AA00FA815E70E4B,
 				AD1F8B676A986869490C085E,
 				F387FEFC1C926DF6CC972471,
@@ -648,6 +653,7 @@
 				E29CFB287508C07E37475AC0,
 				1BE4002110453B0B18F599C2,
 				1B9B2B1E99D9ADD49E7A2809,
+				F93C4639304190B3E91C7E08,
 				A7D40BCA636DFE2C79C2EA3F,
 				D71D6AD38D18512254831BEA,
 				367C7B68EFD7F8B6810E90AE,

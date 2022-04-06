@@ -1,0 +1,27 @@
+# title: Firework
+# artist: Katie Perry
+# metre: 4/4
+# tonic: Ab
+
+
+
+| Ab:maj | Bb:min | F:min | Db:maj |,
+| Ab:maj | Bb:min | F:min | Db:maj |
+| Ab:maj | Bb:min | F:min | Db:maj |
+| Ab:maj | Bb:min | F:min | Db:maj |
+| Ab:maj | Bb:min | F:min | Db:maj |
+| Ab:maj | Bb:min | F:min | Db:maj |
+| Ab:maj | Bb:min | F:min | Db:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+

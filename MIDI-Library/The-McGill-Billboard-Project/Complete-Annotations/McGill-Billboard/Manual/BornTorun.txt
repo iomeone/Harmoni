@@ -1,0 +1,17 @@
+# title: Born to run
+# artist: Bruce Springsteen
+# metre: 4/4
+# tonic: E
+
+
+
+| E:maj | E:maj | A:maj | B:maj |,
+| E:maj | E:maj | A:maj | B:maj |
+| E:maj | E:maj | A:maj | B:maj |
+| E:maj | E:maj | A:maj | B:maj |
+| A:maj | E:maj/3 | Gb:min | E:maj/3 |
+| A:maj | E:maj/3 | Gb:min | E:maj/3 |
+
+
+
+

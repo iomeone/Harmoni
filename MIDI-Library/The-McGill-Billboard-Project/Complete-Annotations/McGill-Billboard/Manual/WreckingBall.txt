@@ -1,0 +1,28 @@
+# title: Wrecking Ball
+# artist: Miley Cyrus
+# metre: 4/4
+# tonic: F
+
+
+
+| D:min | F:maj | C:maj | Bb:maj |,
+| D:min | F:maj | C:maj | Bb:maj |
+| Bb:maj | D:min | F:maj | Bb:maj |
+| Bb:maj | D:min | F:maj | Bb:maj |
+| F:maj | C:maj | D:min | Bb:maj |
+| F:maj | C:maj | D:min | Bb:maj |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

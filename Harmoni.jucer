@@ -17,6 +17,9 @@
             file="Source/PianoRollComponent.cpp"/>
       <FILE id="gW145d" name="PianoRollComponent.h" compile="0" resource="0"
             file="Source/PianoRollComponent.h"/>
+      <FILE id="mMfhTz" name="ChordLibrary.cpp" compile="1" resource="0"
+            file="Source/ChordLibrary.cpp"/>
+      <FILE id="gqN2Mu" name="ChordLibrary.h" compile="0" resource="0" file="Source/ChordLibrary.h"/>
       <FILE id="aNVNro" name="KeyboardComponent.cpp" compile="1" resource="0"
             file="Source/KeyboardComponent.cpp"/>
       <FILE id="cRalT1" name="KeyboardComponent.h" compile="0" resource="0"

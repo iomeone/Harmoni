@@ -1,0 +1,29 @@
+# title: Somebody that I used to know
+# artist: Gotye
+# metre: 4/4
+# tonic: F
+
+
+
+| D:min | C:maj | D:min | C:maj |,
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+| D:min | C:maj | D:min | C:maj |
+(chorus) 
+| D:min | C:maj | Bb:maj | C:maj |
+| D:min | C:maj | Bb:maj | C:maj |
+| D:min | C:maj | Bb:maj | C:maj |
+| D:min | C:maj | Bb:maj | C:maj |
+| D:min | C:maj | Bb:maj | C:maj |
+
+
+
+
+

@@ -1,0 +1,27 @@
+# title: Someone like you
+# artist: Adele
+# metre: 4/4
+# tonic: A
+
+
+
+| A:maj | Db:min | Gb:min | D:maj |,
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+| A:maj | Db:min | Gb:min | D:maj |
+
+
+
+
+
+
+
+
+
+
+
+

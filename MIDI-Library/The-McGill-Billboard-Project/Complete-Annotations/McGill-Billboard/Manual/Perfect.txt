@@ -1,0 +1,24 @@
+# title: Perfect
+# artist: Ed Sheeran
+# metre: 4/4
+# tonic: Ab
+
+
+
+| Ab:maj | F:min | Db:maj | Eb:maj |,
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+| Ab:maj | F:min | Db:maj | Eb:maj |
+
+
+
+
+
+
+
+
+
